@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Écran élégant</string>
+    <string name="name">Nom</string>
+    <string name="email">Courriel</string>
+    <string name="email_address">Adresse courriel</string>
+    <string name="extensionLabel">Poste</string>
+    <string name="extension">Poste</string>
+    <string name="departmentLabel">Département</string>
+    <string name="department_name">Nom du département</string>
+    <string name="supervisorLabel">Superviseur</string>
+    <string name="supervisor_s_name">Nom du superviseur</string>
+    <string name="direct_reportsLabel">Subordonnés directs</string>
+</resources>
